@@ -1,6 +1,6 @@
 ## Table of contents
 
-- [7 Hacks for ES6 Developers]('7 Hacks for ES6 Developers')
+- [7 Hacks for ES6 Developers]()
 
 # 7 Hacks for ES6 Developers
 
