@@ -14,6 +14,7 @@ console.log(a) // -> hello
 console.log(b) // -> world
 // Yes, it's magic
 ```
+
 ### Hack #2 — Async/Await with Destructuring
 Once again, Array Destructuring is great. Combined with async/await and promises to make a complex flow — simple.
 
@@ -22,4 +23,18 @@ const [user, account] = await Promise.all([
   fetch('/user'),
   fetch('/account')
 ])
+```
+
+### Hack #3—Debugging
+For anyone who likes to debug using `console.log`, here’s something
+awesome (and yes, I heard of `console.table`):
+```js
+const a = 5, b = 6, c = 7
+console.log({ a, b, c })
+// outputs this nice object:
+// {
+// a: 5,
+// b: 6,
+// c: 7,
+// }
 ```
