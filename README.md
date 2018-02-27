@@ -39,5 +39,4 @@ console.log({ a, b, c })
 // }
 ```
 
-
 - Optional Chaining operator
