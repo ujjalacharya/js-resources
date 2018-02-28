@@ -45,4 +45,6 @@ console.log({ a, b, c })
 
 # React Native Resources
 
-
+- react native social auth
+  - https://github.com/adamjmcgrath/react-native-simple-auth
+  - https://www.codementor.io/microsem31/react-native-google-and-facebook-authentication-cohpznykf
