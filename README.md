@@ -45,7 +45,11 @@ console.log({ a, b, c })
 
 # React Native Resources
 
-- react native social auth
-  - https://github.com/adamjmcgrath/react-native-simple-auth
-  - https://www.codementor.io/microsem31/react-native-google-and-facebook-authentication-cohpznykf
-  - https://developers.facebook.com/docs/react-native/login
+- social auth
+  - [simple-auth](https://github.com/adamjmcgrath/react-native-simple-auth)
+  - [google-and-facebook-authentication-cohpznykf](https://www.codementor.io/microsem31/react-native-google-and-facebook-authentication-cohpznykf)
+  - [facebook sdk](https://developers.facebook.com/docs/react-native/login)
+
+- image viewer
+  - [image-viewer](https://github.com/ascoders/react-native-image-viewer)
+  - [lightbox](https://github.com/oblador/react-native-lightbox)
