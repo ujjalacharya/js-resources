@@ -1,6 +1,7 @@
 ## Table of contents
 
 - [7 Hacks for ES6 Developers]()
+- [React Native resources](#react-native-resources)
 
 # 7 Hacks for ES6 Developers
 
@@ -40,3 +41,8 @@ console.log({ a, b, c })
 ```
 
 - Optional Chaining operator
+
+
+# React Native Resources
+
+
