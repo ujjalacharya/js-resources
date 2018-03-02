@@ -1,9 +1,13 @@
 ## Table of contents
 
-- [7 Hacks for ES6 Developers]()
-- [React Native resources](#react-native-resources)
+- [ES6](#es6)
+- [React Native](#react-native-resources)
+- [Node.js](#nodejs)
+- [Videos](#videos)
 
-# 7 Hacks for ES6 Developers
+# ES6
+
+## 7 Hacks for ES6 Developers
 
 ### Hack #1 — Swap variables
 Using `Array Destructuring` to swap values
@@ -42,7 +46,6 @@ console.log({ a, b, c })
 
 - Optional Chaining operator
 
-
 # React Native Resources
 
 - social auth
@@ -51,3 +54,11 @@ console.log({ a, b, c })
 - image viewer
   - [image-viewer](https://github.com/ascoders/react-native-image-viewer)
   - [lightbox](https://github.com/oblador/react-native-lightbox)
+
+# Node.js
+
+- [node-js-v8-internals-an-illustrative](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
+
+# Videos
+
+- [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
