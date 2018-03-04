@@ -1,52 +1,17 @@
-## Table of contents
+# Table of contents
 
 - [ES6](#es6)
 - [React Native](#react-native-resources)
 - [Node.js](#nodejs)
 - [Videos](#videos)
 
-# ES6
+## ES6
 
-## 7 Hacks for ES6 Developers
-
-### Hack #1 — Swap variables
-Using `Array Destructuring` to swap values
-
-```js
-let a = 'world', b = 'hello'
-[a, b] = [b, a]
-console.log(a) // -> hello
-console.log(b) // -> world
-// Yes, it's magic
-```
-
-### Hack #2 — Async/Await with Destructuring
-Once again, Array Destructuring is great. Combined with async/await and promises to make a complex flow — simple.
-
-```js
-const [user, account] = await Promise.all([
-  fetch('/user'),
-  fetch('/account')
-])
-```
-
-### Hack #3—Debugging
-For anyone who likes to debug using `console.log`, here’s something
-awesome (and yes, I heard of `console.table`):
-```js
-const a = 5, b = 6, c = 7
-console.log({ a, b, c })
-// outputs this nice object:
-// {
-// a: 5,
-// b: 6,
-// c: 7,
-// }
-```
+- [7 Hacks for ES6 Developers](pdf/js/7 Hacks for ES6 Developers – DailyJS – Medium.pdf)
 
 - Optional Chaining operator
 
-# React Native Resources
+## React Native Resources
 
 - social auth
   - [facebook sdk](https://developers.facebook.com/docs/react-native/login)
@@ -55,10 +20,10 @@ console.log({ a, b, c })
   - [image-viewer](https://github.com/ascoders/react-native-image-viewer)
   - [lightbox](https://github.com/oblador/react-native-lightbox)
 
-# Node.js
+## Node.js
 
 - [node-js-v8-internals-an-illustrative](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 
-# Videos
+## Videos
 
 - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
