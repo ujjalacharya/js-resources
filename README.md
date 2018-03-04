@@ -7,7 +7,7 @@
 
 ## ES6
 
-- [7 Hacks for ES6 Developers](pdf/js/7 Hacks for ES6 Developers – DailyJS – Medium.pdf)
+- [7 Hacks for ES6 Developers](blob/master/pdf/js/7 Hacks for ES6 Developers – DailyJS – Medium.pdf)
 
 - Optional Chaining operator
 
