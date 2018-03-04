@@ -6,9 +6,8 @@
 - [Videos](#videos)
 
 ## ES6
-
-- [7 Hacks for ES6 Developers](blob/master/pdf/js/7 Hacks for ES6 Developers – DailyJS – Medium.pdf)
-
+- [7 Hacks for ES6 Developers](blob/master/pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
+- [Javascript Hacks for Hipsters](blob/master/pdf/js/Javascript%20Hacks%20for%20Hipsters%20–%20Hacker%20Noon.pdf)
 - Optional Chaining operator
 
 ## React Native Resources
