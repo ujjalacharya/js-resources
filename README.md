@@ -12,10 +12,9 @@
   - PDF
     - [7 Hacks for ES6 Developers](pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
     - [Javascript Hacks for Hipsters](pdf/js/Javascript%20Hacks%20for%20Hipsters%20–%20Hacker%20Noon.pdf)
-  - New Topic
-    - Optional Chaining operator
   - Videos
-  - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
+    - [Optional Chaining operator](https://www.youtube.com/watch?v=FKRVqtP8o48)
+    - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
 ### WebRTC
   - PDF
     - [WebRTC in the real world_ STUN, TURN and signaling - HTML5 Rocks](pdf/webrtc/WebRTC%20in%20the%20real%20world_%20STUN%2C%20TURN%20and%20signaling%20-%20HTML5%20Rocks.pdf)
