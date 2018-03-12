@@ -41,6 +41,7 @@
     - [Creating RESTful APIs with NodeJS and MongoDB Tutorial (Part II)](pdf/node/Creating%20RESTful%20APIs%20with%20NodeJS%20and%20MongoDB%20Tutorial%20(Part%20II)%20_%20Adrian%20Mejia%20Blog.pdf)
   - Videos
     - [Uploading Files to MongoDB With GridFS (Node.js App)](https://www.youtube.com/watch?v=3f5Q9wDePzY)
+    - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
     
 ## Blockchain
   - Videos
