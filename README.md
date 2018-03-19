@@ -17,8 +17,9 @@
     - [Run Deep Learning Models in the Browser With JavaScript and ConvNetJS](https://www.youtube.com/watch?v=out-60vx558)
   - Blog
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
-    - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
-    - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/)
+    - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
+    - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
+    - [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
     
 ## WebRTC
   - PDFs
