@@ -6,7 +6,6 @@
 - [Node.js](#nodejs)
 - [Blockchain](#blockchain)
 
-
 ## Javascript
   - PDFs
     - [7 Hacks for ES6 Developers](pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
