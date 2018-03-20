@@ -16,6 +16,7 @@
     - [Run Deep Learning Models in the Browser With JavaScript and ConvNetJS](https://www.youtube.com/watch?v=out-60vx558)
     - [JavaScript Symbols - HTTP203](https://www.youtube.com/watch?v=qIU151UPOSY)
     - [VDOM vs lit-html](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
+    - [lit-HTML](https://www.youtube.com/watch?v=Io6JjgckHbg)
   - Blog
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
     - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
