@@ -14,6 +14,7 @@
     - [Optional Chaining operator](https://www.youtube.com/watch?v=FKRVqtP8o48)
     - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
     - [Run Deep Learning Models in the Browser With JavaScript and ConvNetJS](https://www.youtube.com/watch?v=out-60vx558)
+    - [JavaScript Symbols - HTTP203](https://www.youtube.com/watch?v=qIU151UPOSY)
   - Blog
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
     - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
