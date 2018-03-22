@@ -5,6 +5,7 @@
 - [React Native](#react-native)
 - [Node.js](#nodejs)
 - [Blockchain](#blockchain)
+- [WebAssembly](#webassembly)
 
 ## Javascript
   - PDFs
@@ -57,3 +58,6 @@
   - Videos
     - [Blockchain + AI = Decentralized Artificial Intelligence](https://www.youtube.com/watch?v=ogk4DnqXvuA)
     
+## WebAssembly
+  - Videos
+    - [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
