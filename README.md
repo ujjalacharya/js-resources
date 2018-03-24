@@ -1,12 +1,25 @@
 # Table of contents
 
+- [Node.js](#nodejs)
 - [Javascript](#javascript)
 - [WebRTC](#webrtc)
 - [React Native](#react-native)
-- [Node.js](#nodejs)
 - [Blockchain](#blockchain)
 - [WebAssembly](#webassembly)
 
+## Node.js
+  - Blogs
+    - [node-js-v8-internals-an-illustrative](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
+  - PDFs
+    - [Encrypt and decrypt content with Nodejs](pdf/node/Encrypt%20and%20decrypt%20content%20with%20Nodejs%20-%20chris-rock.pdf)
+    - [Creating RESTful APIs with NodeJS and MongoDB Tutorial (Part II)](pdf/node/Creating%20RESTful%20APIs%20with%20NodeJS%20and%20MongoDB%20Tutorial%20(Part%20II)%20_%20Adrian%20Mejia%20Blog.pdf)
+  - Videos
+    - [Uploading Files to MongoDB With GridFS (Node.js App)](https://www.youtube.com/watch?v=3f5Q9wDePzY)
+    - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
+    -[Node in production](https://node.university/p/node-in-production)
+  - Others
+    - [Strapi CMS](https://github.com/strapi/strapi)
+    
 ## Javascript
   - PDFs
     - [7 Hacks for ES6 Developers](pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
@@ -41,18 +54,6 @@
       - [Programming with Mosh](https://www.youtube.com/playlist?list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm)
   - Others
     - [Supernova Studio](https://supernova.studio)
-
-## Node.js
-  - Blogs
-    - [node-js-v8-internals-an-illustrative](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
-  - PDFs
-    - [Encrypt and decrypt content with Nodejs](pdf/node/Encrypt%20and%20decrypt%20content%20with%20Nodejs%20-%20chris-rock.pdf)
-    - [Creating RESTful APIs with NodeJS and MongoDB Tutorial (Part II)](pdf/node/Creating%20RESTful%20APIs%20with%20NodeJS%20and%20MongoDB%20Tutorial%20(Part%20II)%20_%20Adrian%20Mejia%20Blog.pdf)
-  - Videos
-    - [Uploading Files to MongoDB With GridFS (Node.js App)](https://www.youtube.com/watch?v=3f5Q9wDePzY)
-    - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
-  - Others
-    - [Strapi CMS](https://github.com/strapi/strapi)
     
 ## Blockchain
   - Videos
