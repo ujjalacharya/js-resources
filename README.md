@@ -16,7 +16,8 @@
   - Videos
     - [Uploading Files to MongoDB With GridFS (Node.js App)](https://www.youtube.com/watch?v=3f5Q9wDePzY)
     - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
-    -[Node in production](https://node.university/p/node-in-production)
+    - [Node in production](https://node.university/p/node-in-production)
+    - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
   - Others
     - [Strapi CMS](https://github.com/strapi/strapi)
     
@@ -34,7 +35,6 @@
   - Blog
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
     - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
-    - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
     - [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
     
 ## WebRTC
