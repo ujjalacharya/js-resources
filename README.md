@@ -17,6 +17,7 @@
     - [Uploading Files to MongoDB With GridFS (Node.js App)](https://www.youtube.com/watch?v=3f5Q9wDePzY)
     - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
     - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
+    - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
   - Others
     - [Strapi CMS](https://github.com/strapi/strapi)
   - Node University
