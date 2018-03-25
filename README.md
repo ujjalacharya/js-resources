@@ -23,6 +23,7 @@
     - [Node in production](https://node.university/p/node-in-production)
     - [You dont know node](https://node.university/p/you-dont-know-node)
   - [Node Hack]
+    - [HackTheBox - Node](https://www.youtube.com/watch?v=sW10TlZF62w)
     - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
     - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
     - [Exploiting Node.js deserialization bug for Remote Code Execution](https://www.youtube.com/watch?v=GFacPoWOcw0)
