@@ -17,12 +17,14 @@
     - [Uploading Files to MongoDB With GridFS (Node.js App)](https://www.youtube.com/watch?v=3f5Q9wDePzY)
     - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
     - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
-    - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
   - Others
     - [Strapi CMS](https://github.com/strapi/strapi)
   - Node University
     - [Node in production](https://node.university/p/node-in-production)
     - [You dont know node](https://node.university/p/you-dont-know-node)
+  - [Node Hack]
+    - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
+    - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)  
     
 ## Javascript
   - PDFs
@@ -46,18 +48,7 @@
     - [WebRTC in the real world_ STUN, TURN and signaling - HTML5 Rocks](pdf/webrtc/WebRTC%20in%20the%20real%20world_%20STUN%2C%20TURN%20and%20signaling%20-%20HTML5%20Rocks.pdf)
   
 ## React Native
-  - Github
-    - social auth
-      - [facebook sdk](https://developers.facebook.com/docs/react-native/login)
-    - image viewer
-      - [image-viewer](https://github.com/ascoders/react-native-image-viewer)
-      - [lightbox](https://github.com/oblador/react-native-lightbox)
-  - Videos
-    - [Composable Native APIs](https://www.youtube.com/watch?v=ksdnkm_zSW8)
-    - Tutorial
-      - [Programming with Mosh](https://www.youtube.com/playlist?list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm)
-  - Others
-    - [Supernova Studio](https://supernova.studio)
+  - [Supernova Studio](https://supernova.studio)
     
 ## Blockchain
   - Videos
