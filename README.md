@@ -45,7 +45,9 @@
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
     - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
     - [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
-    
+  - Others
+    - [oclif (The Open CLI Framework)](https://oclif.io)
+  
 ## WebRTC
   - PDFs
     - [WebRTC in the real world_ STUN, TURN and signaling - HTML5 Rocks](pdf/webrtc/WebRTC%20in%20the%20real%20world_%20STUN%2C%20TURN%20and%20signaling%20-%20HTML5%20Rocks.pdf)
