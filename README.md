@@ -62,3 +62,4 @@
 ## WebAssembly
   - Videos
     - [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
+    - [WebAssembly and the Future of the Web](https://www.youtube.com/watch?v=JWCr9vcpl3w)
