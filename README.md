@@ -41,6 +41,7 @@
     - [VDOM vs lit-html](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
     - [lit-HTML](https://www.youtube.com/watch?v=Io6JjgckHbg)
     - [The JAM Stack: The New Front-End Stack For Web Development](https://www.youtube.com/watch?v=_3zYAMkaMf8)
+    - [The Long Road to Async/Await in JavaScript](https://www.youtube.com/watch?v=IZIcWl-jq_0)
   - Blog
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
     - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
