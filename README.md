@@ -21,6 +21,9 @@
     - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
     - [Node's Event Loop From the Inside Out by Sam Roberts, IBM](https://www.youtube.com/watch?v=P9csgxBgaZ8)
     - [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0)
+  - Github
+    - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+    - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
   - Others
     - [Strapi CMS](https://github.com/strapi/strapi)
   - Node University
