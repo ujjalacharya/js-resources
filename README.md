@@ -18,6 +18,7 @@
     - [Distributed Web Architectures: Curtis Chambers, Uber](https://www.youtube.com/watch?v=vujVmugFsKc&list=PLFk35rHowTvGUsVMO6r8KPUryn7sjSbjO&index=7&t=0s)
     - [nodejs-at-scale-npm-best-practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
     - [Installing and Running a Node js app on an Android Device](https://www.youtube.com/watch?v=sOmlK6e4yww)
+    - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   - Others
     - [Strapi CMS](https://github.com/strapi/strapi)
   - Node University
