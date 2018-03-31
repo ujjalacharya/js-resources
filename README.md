@@ -26,6 +26,7 @@
   - Github
     - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
     - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+    - [Response to Netflix's "Node.js in Flames" Blog Post](https://gist.github.com/hueniverse/a3109f716bf25718ba0e)
   - Others
     - [Strapi CMS](https://github.com/strapi/strapi)
   - Node University
