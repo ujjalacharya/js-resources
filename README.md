@@ -56,6 +56,7 @@
     - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
     - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
     - [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
+    - [V8 release v6.6](https://v8project.blogspot.in/2018/03/v8-release-66.html)
   - Others
     - [oclif (The Open CLI Framework)](https://oclif.io)
     - [Examples](/examples/readme.md)
