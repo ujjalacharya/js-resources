@@ -1,0 +1,30 @@
+{
+  "name": "resource-links",
+  "version": "1.0.0",
+  "description": "- [Node.js](#nodejs)\r - [Javascript](#javascript)\r - [WebRTC](#webrtc)\r - [React Native](#react-native)\r - [Blockchain](#blockchain)\r - [WebAssembly](#webassembly)",
+  "main": "index.js",
+  "directories": {
+    "examples": "examples",
+    "pdf": "pdf"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoydip/resource-links.git"
+  },
+  "keywords": [
+    "recources",
+    "jsvascript",
+    "node.js",
+    "webassembly",
+    "WebRTC"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoydip/resource-links/issues"
+  },
+  "homepage": "https://github.com/rjoydip/resource-links#readme"
+}
