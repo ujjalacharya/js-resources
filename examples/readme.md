@@ -29,4 +29,4 @@ asyncLoop()
 console.log("Done")
 ```
 
-[Source](/examples/async-loop/async-loop.js)
+Source: [async-loop.js](/examples/async-loop/async-loop.js)
