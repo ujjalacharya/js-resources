@@ -21,6 +21,8 @@
     - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
     - [Node's Event Loop From the Inside Out by Sam Roberts, IBM](https://www.youtube.com/watch?v=P9csgxBgaZ8)
     - [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0)
+    - [Object-oriented Programming in 7 minutes with Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+    - [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk)
   - Github
     - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
     - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
