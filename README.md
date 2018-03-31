@@ -31,13 +31,14 @@
   - Node University
     - [Node in production](https://node.university/p/node-in-production)
     - [You dont know node](https://node.university/p/you-dont-know-node)
-  - [Node Hack]
+  - Node Hack
     - [HackTheBox - Node](https://www.youtube.com/watch?v=sW10TlZF62w)
     - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
     - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
     - [Exploiting Node.js deserialization bug for Remote Code Execution](https://www.youtube.com/watch?v=GFacPoWOcw0)
-    
+
 ## Javascript
+
   - PDFs
     - [7 Hacks for ES6 Developers](pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
     - [Javascript Hacks for Hipsters](pdf/js/Javascript%20Hacks%20for%20Hipsters%20–%20Hacker%20Noon.pdf)
@@ -56,6 +57,7 @@
     - [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw)
   - Others
     - [oclif (The Open CLI Framework)](https://oclif.io)
+    - [Examples](/examples/readme.md)
   
 ## WebRTC
   - PDFs
