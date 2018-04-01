@@ -1,0 +1,1 @@
+const Self = require('./class-export')()
