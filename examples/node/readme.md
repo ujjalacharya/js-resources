@@ -20,7 +20,7 @@ module.exports = (
 const Self = require('./class-export')()
 ```
 
-Source: [async-loop.js](/examples/node/class-export/class-export.js#L1)
+Source: [class-export.js](/examples/node/class-export.js#L1)
 
 - cluster (load balancing)
 
@@ -56,7 +56,7 @@ if (cluster.isMaster) {
     console.log(`worker ${worker.process.pid} died with code ${code} and signal ${signal}`);
     console.log(`worker restart ..`);
     const newWorker = cluster.fork();
-    
+
     // Note the process IDs
     const newPID = newWorker.process.pid;
     const oldPID = worker.process.pid;
@@ -79,3 +79,49 @@ if (cluster.isMaster) {
 Source: [cluster.js](/examples/node/cluster.js#L1)
 
 > NOTE: Kill a process in `windows`: `> Taskkill /PID <PROCESS_ID> /F` and for `linux`: `$ kill -9 <PROCESS_ID>`
+
+- node proxy server
+
+```js
+var http = require('http'),
+    httpProxy = require('http-proxy');
+
+var addresses = [
+    {
+        host: '127.0.0.1',
+        port: 8000
+    },
+    {
+        host: '127.0.0.1',
+        port: 8001
+    },
+    {
+        host: '127.0.0.1',
+        port: 8002
+    },
+    {
+        host: '127.0.0.1',
+        port: 8003
+    }
+];
+
+//
+// Create your target server
+//
+var server = http.createServer(function (req, res) {
+    addresses = addresses.concat(addresses.splice(0, 1));
+    var target = { target: addresses };
+    //
+    // Create your proxy server and set the target in the options.
+    //
+    var proxyServer = httpProxy.createProxyServer(target);
+
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.write('request successfully proxied!' + '\n' + JSON.stringify(req.headers, true, 2));
+    res.end();
+})
+
+server.listen(9000);
+```
+
+Source: [http-proxy.js](/examples/node/http-proxy.js#L26)

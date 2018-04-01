@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/rjoydip/resource-links/issues"
   },
-  "homepage": "https://github.com/rjoydip/resource-links#readme"
+  "homepage": "https://github.com/rjoydip/resource-links#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
 }
