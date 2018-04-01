@@ -36,6 +36,7 @@
     - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
     - [Exploiting Node.js deserialization bug for Remote Code Execution](https://www.youtube.com/watch?v=GFacPoWOcw0)
   - Others
+    - [Load balancing](https://www.keithcirkel.co.uk/load-balancing-node-js)
     - [Strapi CMS](https://github.com/strapi/strapi)
     - [Examples](/examples/node/readme.md)
 
