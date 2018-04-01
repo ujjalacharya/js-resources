@@ -1,30 +1,3 @@
-# Examples
-
-- class export
-
-```js
-// class-export.js
-class Self {
-    constructor() {
-        console.log('Self invoke class');
-    }
-}
-
-module.exports = (
-    () => {
-        return new Self()
-    }
-)
-
-// index.js
-const Self = require('./class-export')()
-```
-
-Source: [async-loop.js](/examples/node/class-export/class-export.js#L1)
-
-- cluster (load balancing)
-
-```js
 const cluster = require('cluster');
 const http = require('http');
 const numCPUs = require('os').cpus().length;
@@ -74,8 +47,3 @@ if (cluster.isMaster) {
     process.send({ cmd: 'notifyRequest' });
   }).listen(8000);
 }
-```
-
-Source: [cluster.js](/examples/node/cluster.js#L1)
-
-> NOTE: Kill a process in `windows`: `> Taskkill /PID <PROCESS_ID> /F` and for `linux`: `$ kill -9 <PROCESS_ID>`
