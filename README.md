@@ -41,6 +41,7 @@
   - [Load balancing](https://www.keithcirkel.co.uk/load-balancing-node-js)
   - [Strapi CMS](https://github.com/strapi/strapi)
   - [Examples](/examples/node/readme.md)
+  - [Tricks](/examples/node/tricks.md)
 
 ## Javascript
 
