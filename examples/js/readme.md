@@ -1,8 +1,4 @@
-# Table of contents
-
-- [Javascript](#javascript)
-
-## Javascript
+# Examples
 
 - async loop
 
@@ -30,25 +26,3 @@ console.log("Done")
 ```
 
 Source: [async-loop.js](/examples/js/async-loop/async-loop.js#L18)
-
-- class export
-
-```js
-// class-export.js
-class Self {
-    constructor() {
-        console.log('Self invoke class');
-    }
-}
-
-module.exports = (
-    () => {
-        return new Self()
-    }
-)
-
-// index.js
-const Self = require('./class-export')()
-```
-
-Source: [async-loop.js](/examples/node/class-export/class-export.js#L1)

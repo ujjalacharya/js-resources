@@ -27,8 +27,6 @@
     - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
     - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
     - [Response to Netflix's "Node.js in Flames" Blog Post](https://gist.github.com/hueniverse/a3109f716bf25718ba0e)
-  - Others
-    - [Strapi CMS](https://github.com/strapi/strapi)
   - Node University
     - [Node in production](https://node.university/p/node-in-production)
     - [You dont know node](https://node.university/p/you-dont-know-node)
@@ -37,6 +35,9 @@
     - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
     - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
     - [Exploiting Node.js deserialization bug for Remote Code Execution](https://www.youtube.com/watch?v=GFacPoWOcw0)
+  - Others
+    - [Strapi CMS](https://github.com/strapi/strapi)
+    - [Examples](/examples/node/readme.md)
 
 ## Javascript
 
@@ -59,7 +60,7 @@
     - [V8 release v6.6](https://v8project.blogspot.in/2018/03/v8-release-66.html)
   - Others
     - [oclif (The Open CLI Framework)](https://oclif.io)
-    - [Examples](/examples/readme.md)
+    - [Examples](/examples/js/readme.md)
   
 ## WebRTC
   - PDFs
