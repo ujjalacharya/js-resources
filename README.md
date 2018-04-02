@@ -28,6 +28,7 @@
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
   - [Response to Netflix's "Node.js in Flames" Blog Post](https://gist.github.com/hueniverse/a3109f716bf25718ba0e)
+  - [Build intaractive CLI](https://mafintosh.github.io/jsfest-ua-2018/#0)
 - Node University
   - [Node in production](https://node.university/p/node-in-production)
   - [You dont know node](https://node.university/p/you-dont-know-node)
