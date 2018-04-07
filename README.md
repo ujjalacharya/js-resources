@@ -26,6 +26,7 @@
   - [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk)
   - [Twitter Lite Powered By NodeJS](https://www.youtube.com/watch?v=9-VuJTiVsCo)
   - [Scaling NodeJS - Abhinav Rastogi, Flipkart](https://www.youtube.com/watch?v=OsHvD6EUAWM)
+  - [Image Processing And Manipulation In Node.js - JS Monthly London](https://www.youtube.com/watch?v=ze7IV-LnzwQ)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
