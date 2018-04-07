@@ -28,6 +28,7 @@
   - [Twitter Lite Powered By NodeJS](https://www.youtube.com/watch?v=9-VuJTiVsCo)
   - [Scaling NodeJS - Abhinav Rastogi, Flipkart](https://www.youtube.com/watch?v=OsHvD6EUAWM)
   - [Image Processing And Manipulation In Node.js - JS Monthly London](https://www.youtube.com/watch?v=ze7IV-LnzwQ)
+  - [Simple P2P in the Browser with WebRTC and SignalHub](https://www.youtube.com/watch?v=jY9k4rfXwEI)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
@@ -82,6 +83,7 @@
   - [Abhinav Rastogi: Scaling NodeJS beyond the ordinary](https://www.youtube.com/watch?v=K8spO4hHMhg)
   - [Catherine Meade: GitHub Pull Requests for Everyone](https://www.youtube.com/watch?v=LqOcx-CtN0w)
   - [Kristján Oddsson: Wouldn’t it be cool if GitHub could… (Lightning Talk)](https://www.youtube.com/watch?v=JRSW4gdzEcg)
+  - [Nicole Chung: Sharing is Caring: build a peer-to-peer network with WebRTC](https://www.youtube.com/watch?v=ZGPOQOLv1p0)
 
 ## WebRTC
 
