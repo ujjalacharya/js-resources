@@ -2,6 +2,7 @@
 
 - [Node.js](#nodejs)
 - [Javascript](#javascript)
+- [JSConf](#jsconf)
 - [WebRTC](#webrtc)
 - [React Native](#react-native)
 - [Blockchain](#blockchain)
@@ -26,7 +27,6 @@
   - [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk)
   - [Twitter Lite Powered By NodeJS](https://www.youtube.com/watch?v=9-VuJTiVsCo)
   - [Scaling NodeJS - Abhinav Rastogi, Flipkart](https://www.youtube.com/watch?v=OsHvD6EUAWM)
-  - [Abhinav Rastogi: Scaling NodeJS beyond the ordinary](https://www.youtube.com/watch?v=K8spO4hHMhg)
   - [Image Processing And Manipulation In Node.js - JS Monthly London](https://www.youtube.com/watch?v=ze7IV-LnzwQ)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -75,6 +75,12 @@
 - Others
   - [oclif (The Open CLI Framework)](https://oclif.io)
   - [Examples](/examples/js/readme.md)
+
+## JSConf
+
+- JSConf Iceland 2018
+  - [Abhinav Rastogi: Scaling NodeJS beyond the ordinary](https://www.youtube.com/watch?v=K8spO4hHMhg)
+  - [Catherine Meade: GitHub Pull Requests for Everyone](https://www.youtube.com/watch?v=LqOcx-CtN0w)
 
 ## WebRTC
 
