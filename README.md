@@ -79,11 +79,12 @@
 
 ## JSConf
 
-- JSConf Iceland 2018
+- Iceland 2018
   - [Abhinav Rastogi: Scaling NodeJS beyond the ordinary](https://www.youtube.com/watch?v=K8spO4hHMhg)
   - [Catherine Meade: GitHub Pull Requests for Everyone](https://www.youtube.com/watch?v=LqOcx-CtN0w)
   - [Kristján Oddsson: Wouldn’t it be cool if GitHub could… (Lightning Talk)](https://www.youtube.com/watch?v=JRSW4gdzEcg)
   - [Nicole Chung: Sharing is Caring: build a peer-to-peer network with WebRTC](https://www.youtube.com/watch?v=ZGPOQOLv1p0)
+  - [Martin Kleppe: Daedalus – Though the Maze of Code](https://www.youtube.com/watch?v=SeAbvjM5Fhw)
 
 ## WebRTC
 
