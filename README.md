@@ -85,6 +85,7 @@
   - [Kristján Oddsson: Wouldn’t it be cool if GitHub could… (Lightning Talk)](https://www.youtube.com/watch?v=JRSW4gdzEcg)
   - [Nicole Chung: Sharing is Caring: build a peer-to-peer network with WebRTC](https://www.youtube.com/watch?v=ZGPOQOLv1p0)
   - [Martin Kleppe: Daedalus – Though the Maze of Code](https://www.youtube.com/watch?v=SeAbvjM5Fhw)
+  - [Dominik Kundel: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)¯](https://www.youtube.com/watch?v=c6mqdsfWdmE)
 
 ## WebRTC
 
