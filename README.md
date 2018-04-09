@@ -29,6 +29,7 @@
   - [Scaling NodeJS - Abhinav Rastogi, Flipkart](https://www.youtube.com/watch?v=OsHvD6EUAWM)
   - [Image Processing And Manipulation In Node.js - JS Monthly London](https://www.youtube.com/watch?v=ze7IV-LnzwQ)
   - [Simple P2P in the Browser with WebRTC and SignalHub](https://www.youtube.com/watch?v=jY9k4rfXwEI)
+  - [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
