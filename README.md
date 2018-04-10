@@ -88,6 +88,9 @@
   - [Martin Kleppe: Daedalus – Though the Maze of Code](https://www.youtube.com/watch?v=SeAbvjM5Fhw)
   - [Dominik Kundel: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)¯](https://www.youtube.com/watch?v=c6mqdsfWdmE)
 
+- HTTP203
+  - [Class-based Tree Shaking](https://www.youtube.com/watch?v=lsd2-TCgHEs)
+
 ## WebRTC
 
 - PDFs
