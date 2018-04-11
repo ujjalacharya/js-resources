@@ -66,6 +66,7 @@
   - [The JAM Stack: The New Front-End Stack For Web Development](https://www.youtube.com/watch?v=_3zYAMkaMf8)
   - [The Long Road to Async/Await in JavaScript](https://www.youtube.com/watch?v=IZIcWl-jq_0)
   - [Eirik Vullum: JavaScript Metaprogramming - ES6 Proxy Use and Abuse](https://www.youtube.com/watch?v=_5X2aB_mNp4)
+  - [Everything Is A Plugin: Mastering Webpack From The Inside Out](https://www.youtube.com/watch?v=Pg6_IUwuZxE) 
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
