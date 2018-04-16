@@ -122,3 +122,19 @@
 - Others
 
   - [Containers aka Crazy User Space Fun](https://www.youtube.com/watch?v=nyaDWTGToeA&feature=push-u-sub&attr_tag=DtNhbT3gzcBvmC-5-6)
+
+## VSCode Extensions
+
+### Global
+
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Todo Highlighter](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+### JS
+
+- [Quokka.js](https://quokkajs.com/)
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets )
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost  )
