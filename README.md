@@ -131,16 +131,11 @@
 
 ## VSCode Extensions
 
-### Global
-
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Todo Highlighter](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-### JS
-
 - [Quokka.js](https://quokkajs.com/)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets )
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost  )
