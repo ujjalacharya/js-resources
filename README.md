@@ -31,6 +31,8 @@
   - [Simple P2P in the Browser with WebRTC and SignalHub](https://www.youtube.com/watch?v=jY9k4rfXwEI)
   - [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY)
   - [HUNTING FOR MALICIOUS MODULES IN NPM](https://www.youtube.com/watch?v=5navEYeW5Hc)
+  - [Marko & NodeJS: STREAMING, ASYNC AND UI COMPONENTS! OH MY!](https://www.youtube.com/watch?v=CLA2gQDegj0)
+  - [Game Development In Native JavaScript](https://www.youtube.com/watch?v=BmwnNAaco1w)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
@@ -57,6 +59,7 @@
 - PDFs
   - [7 Hacks for ES6 Developers](pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
   - [Javascript Hacks for Hipsters](pdf/js/Javascript%20Hacks%20for%20Hipsters%20–%20Hacker%20Noon.pdf)
+  - [What is the Execution Context & Stack in JavaScript_ by David Shariff](pdf/js/What%20is%20the%20Execution%20Context%20&%20Stack%20in%20JavaScript_%20by%20David%20Shariff)
 - Videos
   - [Optional Chaining operator](https://www.youtube.com/watch?v=FKRVqtP8o48)
   - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
@@ -67,7 +70,8 @@
   - [The JAM Stack: The New Front-End Stack For Web Development](https://www.youtube.com/watch?v=_3zYAMkaMf8)
   - [The Long Road to Async/Await in JavaScript](https://www.youtube.com/watch?v=IZIcWl-jq_0)
   - [Eirik Vullum: JavaScript Metaprogramming - ES6 Proxy Use and Abuse](https://www.youtube.com/watch?v=_5X2aB_mNp4)
-  - [Everything Is A Plugin: Mastering Webpack From The Inside Out](https://www.youtube.com/watch?v=Pg6_IUwuZxE) 
+  - [Everything Is A Plugin: Mastering Webpack From The Inside Out](https://www.youtube.com/watch?v=Pg6_IUwuZxE)
+  - [Iterators in JavaScript using Quokka](https://www.youtube.com/watch?v=W4brAobC2Hc)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
@@ -75,6 +79,7 @@
   - [V8 release v6.6](https://v8project.blogspot.in/2018/03/v8-release-66.html)
   - [value-vs-reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
   - [cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types](https://wanago.io/2018/02/12/cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types/)
+  - [how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - Github
   - [Api Cheatsheet Array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
   - [Array iteration methods summarized](https://gist.github.com/mrmartineau/9e39954c0afe02f53b4c0c7814bc601b)
