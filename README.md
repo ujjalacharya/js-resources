@@ -83,6 +83,7 @@
 - Github
   - [Api Cheatsheet Array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
   - [Array iteration methods summarized](https://gist.github.com/mrmartineau/9e39954c0afe02f53b4c0c7814bc601b)
+  - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 - Others
   - [oclif (The Open CLI Framework)](https://oclif.io)
   - [Examples](/examples/js/readme.md)
@@ -97,9 +98,10 @@
   - [Martin Kleppe: Daedalus – Though the Maze of Code](https://www.youtube.com/watch?v=SeAbvjM5Fhw)
   - [Dominik Kundel: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)¯](https://www.youtube.com/watch?v=c6mqdsfWdmE)
 
-- HTTP203
-  - [Class-based Tree Shaking](https://www.youtube.com/watch?v=lsd2-TCgHEs)
-  - [Libraries vs Frameworks](https://www.youtube.com/watch?v=t_pxnrLktNI)
+## HTTP203
+
+- [Class-based Tree Shaking](https://www.youtube.com/watch?v=lsd2-TCgHEs)
+- [Libraries vs Frameworks](https://www.youtube.com/watch?v=t_pxnrLktNI)
 
 ## WebRTC
 
@@ -120,8 +122,6 @@
 - Videos
   - [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
   - [WebAssembly and the Future of the Web](https://www.youtube.com/watch?v=JWCr9vcpl3w)
-
-## Youtube
 
 ### Coding Tech
 
