@@ -124,11 +124,17 @@
   - [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
   - [WebAssembly and the Future of the Web](https://www.youtube.com/watch?v=JWCr9vcpl3w)
 
-### Coding Tech
+## Others
 
-- Others
+- [Containers aka Crazy User Space Fun](https://www.youtube.com/watch?v=nyaDWTGToeA&feature=push-u-sub&attr_tag=DtNhbT3gzcBvmC-5-6)
 
-  - [Containers aka Crazy User Space Fun](https://www.youtube.com/watch?v=nyaDWTGToeA&feature=push-u-sub&attr_tag=DtNhbT3gzcBvmC-5-6)
+## Go
+
+- [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
+
+## Rust
+
+- TODO
 
 ## VSCode Extensions
 
