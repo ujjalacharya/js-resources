@@ -134,7 +134,7 @@
 
 ## Rust
 
-- TODO
+- [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
 
 ## VSCode Extensions
 
