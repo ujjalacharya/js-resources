@@ -81,12 +81,14 @@
   - [value-vs-reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
   - [cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types](https://wanago.io/2018/02/12/cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types/)
   - [how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+  - [ES proposal: BigInt – arbitrary precision integers](http://2ality.com/2017/03/es-integer.html)
 - Github
   - [Api Cheatsheet Array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
   - [Array iteration methods summarized](https://gist.github.com/mrmartineau/9e39954c0afe02f53b4c0c7814bc601b)
   - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 - Others
   - [oclif (The Open CLI Framework)](https://oclif.io)
+  - [BigInt: Arbitrary precision integers in JavaScript](https://github.com/tc39/proposal-bigint)
   - [Examples](/examples/js/readme.md)
 
 ## JSConf
@@ -135,6 +137,7 @@
 ## Rust
 
 - [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
+- [High Performance Apps with JavaScript and Rust](https://www.youtube.com/watch?v=YydrW4CWX0w)
 
 ## VSCode Extensions
 
