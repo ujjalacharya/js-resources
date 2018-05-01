@@ -65,6 +65,9 @@
   - [Eirik Vullum: JavaScript Metaprogramming - ES6 Proxy Use and Abuse](https://www.youtube.com/watch?v=_5X2aB_mNp4)
   - [Everything Is A Plugin: Mastering Webpack From The Inside Out](https://www.youtube.com/watch?v=Pg6_IUwuZxE)
   - [Iterators in JavaScript using Quokka](https://www.youtube.com/watch?v=W4brAobC2Hc)
+  - [Top 5 JavaScript Questions Answered! - Jonas Schmedtmann](https://www.youtube.com/watch?v=v_05rzEq6oc&index=16&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk)
+  - [Understand JavaScript Scoping in 10 minutes! Jonas Schmedtmann](https://www.youtube.com/watch?v=yTW8Jx-4rho&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk&index=14)
+  -[Understand JavaScript Prototypal Inheritance - Jonas Schmedtmann](https://www.youtube.com/watch?v=3AKh0-PDsMw&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk&index=17)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
@@ -84,6 +87,7 @@
 - [Examples](/examples/js/readme.md)
 
 ## Node Hack
+
   - [HackTheBox - Node](https://www.youtube.com/watch?v=sW10TlZF62w)
   - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
   - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
