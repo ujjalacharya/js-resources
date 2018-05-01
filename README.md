@@ -2,11 +2,9 @@
 
 - [Node.js](#nodejs)
 - [Javascript](#javascript)
+- [Node hack](#node_hack)
 - [JSConf](#jsconf)
-- [WebRTC](#webrtc)
-- [React Native](#react-native)
-- [Blockchain](#blockchain)
-- [WebAssembly](#webassembly)
+- [Angular](#angular)
 
 ## Node.js
 
@@ -39,21 +37,14 @@
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
   - [Response to Netflix's "Node.js in Flames" Blog Post](https://gist.github.com/hueniverse/a3109f716bf25718ba0e)
   - [Build intaractive CLI](https://mafintosh.github.io/jsfest-ua-2018/#0)
-- Node University
+- Node University Free Tutorials
   - [Node in production](https://node.university/p/node-in-production)
   - [You dont know node](https://node.university/p/you-dont-know-node)
-- Node Hack
-  - [Examples](/examples/node/hack/readme.md)
-  - [HackTheBox - Node](https://www.youtube.com/watch?v=sW10TlZF62w)
-  - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
-  - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
-  - [Exploiting Node.js deserialization bug for Remote Code Execution](https://www.youtube.com/watch?v=GFacPoWOcw0) 
-  - [hack node app uploading yml](https://github.com/ContainerSolutions/node-hack)
 - Others
   - [Load balancing](https://www.keithcirkel.co.uk/load-balancing-node-js)
   - [Strapi CMS](https://github.com/strapi/strapi)
-  - [Examples](/examples/node/readme.md)
   - [Tricks](/examples/node/tricks.md)
+- [Examples](/examples/node/readme.md)
 
 ## Javascript
 
@@ -90,7 +81,15 @@
 - Others
   - [oclif (The Open CLI Framework)](https://oclif.io)
   - [BigInt: Arbitrary precision integers in JavaScript](https://github.com/tc39/proposal-bigint)
-  - [Examples](/examples/js/readme.md)
+- [Examples](/examples/js/readme.md)
+
+## Node Hack
+  - [HackTheBox - Node](https://www.youtube.com/watch?v=sW10TlZF62w)
+  - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
+  - [BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS](https://www.youtube.com/watch?v=ZYiTLZGK4AQ)
+  - [Exploiting Node.js deserialization bug for Remote Code Execution](https://www.youtube.com/watch?v=GFacPoWOcw0) 
+  - [hack node app uploading yml](https://github.com/ContainerSolutions/node-hack)
+  - [Examples](/examples/node/hack/readme.md)
 
 ## TensorFlow.js
 
@@ -114,46 +113,8 @@
 - [Class-based Tree Shaking](https://www.youtube.com/watch?v=lsd2-TCgHEs)
 - [Libraries vs Frameworks](https://www.youtube.com/watch?v=t_pxnrLktNI)
 
-## WebRTC
+## Angular
 
-- PDFs
-  - [WebRTC in the real world_ STUN, TURN and signaling - HTML5 Rocks](pdf/webrtc/WebRTC%20in%20the%20real%20world_%20STUN%2C%20TURN%20and%20signaling%20-%20HTML5%20Rocks.pdf)
-
-## React Native
-
-- [Supernova Studio](https://supernova.studio)
-
-## Blockchain
-
-- Videos
-  - [Blockchain + AI = Decentralized Artificial Intelligence](https://www.youtube.com/watch?v=ogk4DnqXvuA)
-
-## WebAssembly
-
-- Videos
-  - [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
-  - [WebAssembly and the Future of the Web](https://www.youtube.com/watch?v=JWCr9vcpl3w)
-
-## Others
-
-- [Containers aka Crazy User Space Fun](https://www.youtube.com/watch?v=nyaDWTGToeA&feature=push-u-sub&attr_tag=DtNhbT3gzcBvmC-5-6)
-
-## Go
-
-- [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
-
-## Rust
-
-- [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
-- [High Performance Apps with JavaScript and Rust](https://www.youtube.com/watch?v=YydrW4CWX0w)
-
-## VSCode Extensions
-
-- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [Todo Highlighter](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Quokka.js](https://quokkajs.com/)
-- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets )
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost  )
+- [Angular 6 - What To Expect](https://www.youtube.com/watch?v=XW7_jhrUNmM)
+- [Angular Elements Quick Start](https://www.youtube.com/watch?v=4u9_kdkvTsc)
+- [Short Imports with TypeScript Path Mapping](https://www.youtube.com/watch?v=1FOfL6bDSF4)
