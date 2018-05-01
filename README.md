@@ -108,13 +108,11 @@
   - [Martin Kleppe: Daedalus – Though the Maze of Code](https://www.youtube.com/watch?v=SeAbvjM5Fhw)
   - [Dominik Kundel: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)¯](https://www.youtube.com/watch?v=c6mqdsfWdmE)
 
-## HTTP203
-
-- [Class-based Tree Shaking](https://www.youtube.com/watch?v=lsd2-TCgHEs)
-- [Libraries vs Frameworks](https://www.youtube.com/watch?v=t_pxnrLktNI)
-
 ## Angular
 
-- [Angular 6 - What To Expect](https://www.youtube.com/watch?v=XW7_jhrUNmM)
-- [Angular Elements Quick Start](https://www.youtube.com/watch?v=4u9_kdkvTsc)
 - [Short Imports with TypeScript Path Mapping](https://www.youtube.com/watch?v=1FOfL6bDSF4)
+
+- Angular 6
+  - [Angular 6 - What To Expect](https://www.youtube.com/watch?v=XW7_jhrUNmM)
+  - [Angular Elements Quick Start](https://www.youtube.com/watch?v=4u9_kdkvTsc)
+  - [Elements in v6 and Beyond - Rob Wormald](https://www.youtube.com/watch?v=Z1gLFPLVJjY)
