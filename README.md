@@ -91,6 +91,11 @@
   - [BigInt: Arbitrary precision integers in JavaScript](https://github.com/tc39/proposal-bigint)
   - [Examples](/examples/js/readme.md)
 
+## Tensorflow.js
+
+- Video
+  - [Introduction to TensorFlow.js - Intelligence and Learning](https://www.youtube.com/watch?v=Qt3ZABW5lD0)
+
 ## JSConf
 
 - Iceland 2018
