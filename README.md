@@ -110,7 +110,9 @@
 
 ## Angular
 
-- [Short Imports with TypeScript Path Mapping](https://www.youtube.com/watch?v=1FOfL6bDSF4)
+- Shared
+  - [Short Imports with TypeScript Path Mapping](https://www.youtube.com/watch?v=1FOfL6bDSF4)
+  - [NgConf and the Exciting Future of Angular](https://www.youtube.com/embed/V0HW6h0Jzog?start=56&end=213)
 
 - Angular 6
   - [Angular 6 - What To Expect](https://www.youtube.com/watch?v=XW7_jhrUNmM)
