@@ -32,6 +32,7 @@
   - [HUNTING FOR MALICIOUS MODULES IN NPM](https://www.youtube.com/watch?v=5navEYeW5Hc)
   - [Marko & NodeJS: STREAMING, ASYNC AND UI COMPONENTS! OH MY!](https://www.youtube.com/watch?v=CLA2gQDegj0)
   - [Game Development In Native JavaScript](https://www.youtube.com/watch?v=BmwnNAaco1w)
+  - [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
