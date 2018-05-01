@@ -58,6 +58,7 @@
 ## Javascript
 
 - PDFs
+  - [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
   - [7 Hacks for ES6 Developers](pdf/js/7%20Hacks%20for%20ES6%20Developers%20–%20DailyJS%20–%20Medium.pdf)
   - [Javascript Hacks for Hipsters](pdf/js/Javascript%20Hacks%20for%20Hipsters%20–%20Hacker%20Noon.pdf)
   - [What is the Execution Context & Stack in JavaScript_ by David Shariff](pdf/js/What%20is%20the%20Execution%20Context%20&%20Stack%20in%20JavaScript_%20by%20David%20Shariff)
