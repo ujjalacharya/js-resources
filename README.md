@@ -97,6 +97,7 @@
 - Video
   - [Introduction to TensorFlow.js - Intelligence and Learning](https://www.youtube.com/watch?v=Qt3ZABW5lD0)
   - [TensorFlow.js basic example](https://youtu.be/2v5XteIQ8XM?t=1h7m)
+  - [Angular: TensorFlow.js Quick Start](https://www.youtube.com/watch?v=Y_XM3Bu-4yc)
 
 ## JSConf
 
