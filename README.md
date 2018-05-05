@@ -86,6 +86,7 @@
   - [Api Cheatsheet Array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
   - [Array iteration methods summarized](https://gist.github.com/mrmartineau/9e39954c0afe02f53b4c0c7814bc601b)
   - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
+  -[Why Is JavaScript So Fast? (aka JavaScript Engines - How Do They Even?)](https://www.youtube.com/watch?v=pmtwUOHLgq4)
 - Others
   - [oclif (The Open CLI Framework)](https://oclif.io)
   - [BigInt: Arbitrary precision integers in JavaScript](https://github.com/tc39/proposal-bigint)
