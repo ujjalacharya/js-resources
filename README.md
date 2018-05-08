@@ -73,6 +73,7 @@
   - [JavaScript Binary Tree - Eric Traub](https://www.youtube.com/watch?v=7_GL0mm0d1U&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk&index=41)
   - [JavaScript Hash Tables - Eric Traub](https://www.youtube.com/watch?v=vRY6ZwbI2Ho&index=42&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk)
   - [JavaScript Introduction (complete) - Maximilian Schwarzmuller](https://www.youtube.com/watch?v=ZpU3mEaK0_w&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk&index=5)
+  - [Async iterators (for await ... of) in JavaScript](https://www.youtube.com/watch?v=I5oDbp_U-fQ)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
