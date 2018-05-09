@@ -129,3 +129,5 @@
   - [Angular 6 - What To Expect](https://www.youtube.com/watch?v=XW7_jhrUNmM)
   - [Angular Elements Quick Start](https://www.youtube.com/watch?v=4u9_kdkvTsc)
   - [Elements in v6 and Beyond - Rob Wormald](https://www.youtube.com/watch?v=Z1gLFPLVJjY)
+  - [Angular 6 Upgrade - Breaking Changes & Features - What's New?[Academind]](https://www.youtube.com/watch?v=Xr5l7lT--Y U)
+  - [Angular Elements Introduction & Walkthrough[Academind]](https://www.youtube.com/watch?v=y73NMviRoPY)
