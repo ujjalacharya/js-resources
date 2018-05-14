@@ -112,6 +112,9 @@
 
 ## JSConf
 
+- JSUnconf 2018
+  - [Dominik Kundel - Introduction to Web Security](https://www.youtube.com/watch?v=-vYak5hEGrY)
+
 - Iceland 2018
   - [Abhinav Rastogi: Scaling NodeJS beyond the ordinary](https://www.youtube.com/watch?v=K8spO4hHMhg)
   - [Catherine Meade: GitHub Pull Requests for Everyone](https://www.youtube.com/watch?v=LqOcx-CtN0w)
