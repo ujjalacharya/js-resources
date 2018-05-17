@@ -114,6 +114,7 @@
 
 - JSUnconf 2018
   - [Dominik Kundel - Introduction to Web Security](https://www.youtube.com/watch?v=-vYak5hEGrY)
+  - [Peter Müller - Check your links with hyperlink](https://www.youtube.com/watch?v=1AAp2fn7yCU)
 
 - Iceland 2018
   - [Abhinav Rastogi: Scaling NodeJS beyond the ordinary](https://www.youtube.com/watch?v=K8spO4hHMhg)
@@ -122,6 +123,8 @@
   - [Nicole Chung: Sharing is Caring: build a peer-to-peer network with WebRTC](https://www.youtube.com/watch?v=ZGPOQOLv1p0)
   - [Martin Kleppe: Daedalus – Though the Maze of Code](https://www.youtube.com/watch?v=SeAbvjM5Fhw)
   - [Dominik Kundel: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)¯](https://www.youtube.com/watch?v=c6mqdsfWdmE)
+
+- [Sean Thomas Larkin: Webpack 4: The State of the Art](https://www.youtube.com/watch?v=jUTE7lmrS70)
 
 ## Angular
 
