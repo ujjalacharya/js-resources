@@ -55,6 +55,7 @@
   - [Javascript Hacks for Hipsters](pdf/js/Javascript%20Hacks%20for%20Hipsters%20–%20Hacker%20Noon.pdf)
   - [What is the Execution Context & Stack in JavaScript_ by David Shariff](pdf/js/What%20is%20the%20Execution%20Context%20&%20Stack%20in%20JavaScript_%20by%20David%20Shariff)
 - Videos
+  - [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
   - [Optional Chaining operator](https://www.youtube.com/watch?v=FKRVqtP8o48)
   - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
   - [Run Deep Learning Models in the Browser With JavaScript and ConvNetJS](https://www.youtube.com/watch?v=out-60vx558)
