@@ -26,3 +26,16 @@ console.log("Done")
 ```
 
 Source: [async-loop.js](/examples/js/async-loop/async-loop.js#L18)
+
+- Array unique immutable
+
+```js
+const aui = require('./array-unique-immutable').immutable;
+
+const arr = ['a', 'b', 'c', 'c'];
+
+console.log(aui(arr));
+console.log(arr);
+```
+
+Source: [array-unique-immutable.js](/examples/js/array-unique-immutable.js)
