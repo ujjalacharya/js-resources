@@ -34,6 +34,7 @@
   - [Marko & NodeJS: STREAMING, ASYNC AND UI COMPONENTS! OH MY!](https://www.youtube.com/watch?v=CLA2gQDegj0)
   - [Game Development In Native JavaScript](https://www.youtube.com/watch?v=BmwnNAaco1w)
   - [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+  - [What's New In Node.js 10?](https://www.youtube.com/watch?v=qWoXz-f6HUg)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
