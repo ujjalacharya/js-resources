@@ -78,6 +78,7 @@
   - [JavaScript Introduction (complete) - Maximilian Schwarzmuller](https://www.youtube.com/watch?v=ZpU3mEaK0_w&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk&index=5)
   - [Async iterators (for await ... of) in JavaScript](https://www.youtube.com/watch?v=I5oDbp_U-fQ)
   - [Using async generators to stream data](https://www.youtube.com/watch?v=wrI-Jb0oFyk)
+  - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
