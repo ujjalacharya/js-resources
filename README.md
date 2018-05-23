@@ -35,6 +35,7 @@
   - [Game Development In Native JavaScript](https://www.youtube.com/watch?v=BmwnNAaco1w)
   - [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
   - [What's New In Node.js 10?](https://www.youtube.com/watch?v=qWoXz-f6HUg)
+  - [NEW Debugger Features for JavaScript](https://www.youtube.com/watch?v=foDOYyWNg3I&feature=push-u-sub&attr_tag=a8f3DsvY4nqcY3K--6)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
