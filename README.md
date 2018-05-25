@@ -82,6 +82,7 @@
   - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
   - [URL Parsing with RegEx, createElement and new URL()](https://www.youtube.com/watch?v=ckoegYJ1FR4)
   - [REGEX the Ultra Basics in JavaScript](https://www.youtube.com/watch?v=VrT3TRDDE4M)
+  - [What Does Fast, Modern JavaScript Look Like? (aka High Performance JS in V8)](https://www.youtube.com/watch?v=ut6OF8jMv-o)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
