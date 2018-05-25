@@ -81,6 +81,7 @@
   - [Using async generators to stream data](https://www.youtube.com/watch?v=wrI-Jb0oFyk)
   - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
   - [URL Parsing with RegEx, createElement and new URL()](https://www.youtube.com/watch?v=ckoegYJ1FR4)
+  - [REGEX the Ultra Basics in JavaScript](https://www.youtube.com/watch?v=VrT3TRDDE4M)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
