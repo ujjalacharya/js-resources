@@ -83,6 +83,7 @@
   - [URL Parsing with RegEx, createElement and new URL()](https://www.youtube.com/watch?v=ckoegYJ1FR4)
   - [REGEX the Ultra Basics in JavaScript](https://www.youtube.com/watch?v=VrT3TRDDE4M)
   - [What Does Fast, Modern JavaScript Look Like? (aka High Performance JS in V8)](https://www.youtube.com/watch?v=ut6OF8jMv-o)
+  - [Why Is JavaScript So Fast? (aka JavaScript Engines - How Do They Even?)](https://www.youtube.com/watch?v=pmtwUOHLgq4)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
@@ -92,12 +93,12 @@
   - [cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types](https://wanago.io/2018/02/12/cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types/)
   - [how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
   - [ES proposal: BigInt – arbitrary precision integers](http://2ality.com/2017/03/es-integer.html)
+  - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
+  - [Understanding JavaScript Proxies](https://www.atyantik.com/proxy-javascript-es6-feature/)
 - Github
+  - [Learn-Node: wesbos](https://github.com/wesbos/Learn-Node)
   - [Api Cheatsheet Array](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
   - [Array iteration methods summarized](https://gist.github.com/mrmartineau/9e39954c0afe02f53b4c0c7814bc601b)
-  - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
-  -[Why Is JavaScript So Fast? (aka JavaScript Engines - How Do They Even?)](https://www.youtube.com/watch?v=pmtwUOHLgq4)
-  - [Understanding JavaScript Proxies](https://www.atyantik.com/proxy-javascript-es6-feature/)
 - Others
   - [oclif (The Open CLI Framework)](https://oclif.io)
   - [BigInt: Arbitrary precision integers in JavaScript](https://github.com/tc39/proposal-bigint)
