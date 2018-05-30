@@ -84,6 +84,9 @@
   - [REGEX the Ultra Basics in JavaScript](https://www.youtube.com/watch?v=VrT3TRDDE4M)
   - [What Does Fast, Modern JavaScript Look Like? (aka High Performance JS in V8)](https://www.youtube.com/watch?v=ut6OF8jMv-o)
   - [Why Is JavaScript So Fast? (aka JavaScript Engines - How Do They Even?)](https://www.youtube.com/watch?v=pmtwUOHLgq4)
+  - [Promises Part 1 - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=QO4NXhWo_NM)
+  - [Promises Part 2 - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=AwyoVjVXnLk)
+  - [async/await Part 1 - Topics of JavaScript/ES8](https://www.youtube.com/watch?v=XO77Fib9tSI)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
