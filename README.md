@@ -87,6 +87,7 @@
   - [Promises Part 1 - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=QO4NXhWo_NM)
   - [Promises Part 2 - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=AwyoVjVXnLk)
   - [async/await Part 1 - Topics of JavaScript/ES8](https://www.youtube.com/watch?v=XO77Fib9tSI)
+  - [async/await Part 2 - Topics of JavaScript/ES8](https://www.youtube.com/watch?v=chavThlNz3s)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
