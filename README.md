@@ -90,6 +90,8 @@
   - [Promises Part 2 - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=AwyoVjVXnLk)
   - [async/await Part 1 - Topics of JavaScript/ES8](https://www.youtube.com/watch?v=XO77Fib9tSI)
   - [async/await Part 2 - Topics of JavaScript/ES8](https://www.youtube.com/watch?v=chavThlNz3s)
+  - [Promise.all() - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=01RTj1MWec0)
+  - [try / catch with Promises - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=BztW_u6HDbs)
 - Blog
   - [javascript-standard-style](https://standardjs.com/rules.html#javascript-standard-style)
   - [fundamental-node-js-design-patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns)
